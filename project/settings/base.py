@@ -39,7 +39,7 @@ SECRET_KEY = 'projectrcuqwneioasdj9i093283eni0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['15.206.160.92']
 
 # use custom user model
 AUTH_USER_MODEL = 'profiles.User'
